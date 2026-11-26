@@ -52,4 +52,4 @@ Prints: `prints/lighthouse-antes.png` e `prints/lighthouse-depois.png`.
 
 ## 4. Validação do JSON-LD
 
-Validado em https://validator.schema.org (print em `prints/schema-validator.png`).
+Validado em https://validator.schema.org 
