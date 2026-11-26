@@ -24,12 +24,22 @@ Site com HTML semântico e CSS, sem JavaScript, sobre carros elétricos.
 
 ## Estrutura
 index.html
+
 recarga-de-carro-eletrico.html
+
 robots.txt
+
 sitemap.xml
+
 favicon.ico
+
 SEO.md
+
 README.md
+
 css/style.css
-images/   (carro-eletrico, eletroposto, bateria, og-image, favicons)
+
+images/
+
 prints/
+
