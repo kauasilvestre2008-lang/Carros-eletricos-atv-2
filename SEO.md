@@ -34,18 +34,12 @@
 - `sitemap.xml` lista as 2 páginas com `lastmod`.
 
 **URLs e links internos**
-- URL amigável: `recarga-de-carro-eletrico.html` (minúsculas, hífens, sem acento, com a palavra-chave).
-- Links descritivos entre as páginas (ex.: "Veja o guia completo de recarga de carro elétrico" e "guia básico de carros elétricos"), além do menu e da barra lateral.
+- URL amigável: `recarga-de-carro-eletrico.html` 
+- Links descritivos entre as páginas 
 
-**Imagens**
-- Redimensionadas de 1024 px para 600 px de largura, em WebP (de ~206 KB para ~65 KB no total).
-- `width` e `height` reais em todas (600×397 e 600×403) para evitar mudança de layout.
-- A primeira imagem de cada página carrega normal (`fetchpriority="high"`); as demais usam `loading="lazy"`.
-- **Alt corrigido:** os textos alternativos antigos descreviam ilustrações que não eram as imagens reais. Agora descrevem o que a imagem mostra de fato.
 
 ## 3. Lighthouse (celular): antes e depois
 
-> Medir no Chrome: F12 → Lighthouse → modo **Mobile** → categorias Performance, Accessibility, Best Practices e SEO. Usar aba anônima.
 
 | Categoria | Antes | Depois |
 |-----------|-------|--------|
