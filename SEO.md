@@ -1,8 +1,9 @@
 # SEO.md – Atividade 2 (Meu Site Encontrável)
 
 **Aluno:** Kauã Silvestre Vilas Boas  
-**Site:** https://kauasilvestre2008-lang.github.io/Carros-eletricos-atv-2/
-**Repositório:**https://github.com/kauasilvestre2008-lang/Carros-eletricos-atv-2
+Site: https://kauasilvestre2008-lang.github.io/Carros-eletricos-atv-2/
+
+Repositório: https://github.com/kauasilvestre2008-lang/Carros-eletricos-atv-2
 
 ## 1. Palavras-chave planejadas
 
