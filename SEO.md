@@ -15,8 +15,8 @@
 ## 2. Decisões tomadas
 
 **title e description únicos**
-- Home: *"Carros elétricos: como funciona e como recarregar"* (49 caracteres) com description de 159 caracteres.
-- Página 2: *"Recarga de carro elétrico: wallbox, eletroposto e AC x DC"* (57 caracteres) com description de cerca de 160 caracteres.
+- Home: *"Carros elétricos: como funciona e como recarregar"* 
+- Página 2: *"Recarga de carro elétrico: wallbox, eletroposto e AC x DC"* 
 - Cada página trabalha palavras-chave diferentes para não competirem entre si.
 
 **canonical, Open Graph e favicon**
