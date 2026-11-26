@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://kauasilvestre2008-lang.github.io/Carros-eletricos/sitemap.xml
